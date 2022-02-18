@@ -18,6 +18,7 @@ Me gusta la musica, leer y ayudar a otras personas, siempre estoy abierta a apen
 | 8:50-9:40 |                                  | mantenimiento y redes de computo |           |                                  |
 
 
+
 <!--
 **24judith/24judith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
